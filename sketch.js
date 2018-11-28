@@ -4,7 +4,7 @@ var opafundo;
 
 function preload(){
   // put preload code here
-  mySong = loadSound('./watadori.mp3');
+  mySong = loadSound('./assets/watadori.mp3');
 }
 
 function setup() {
